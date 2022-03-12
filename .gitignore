@@ -1,0 +1,12 @@
+pom.xml
+*jar
+/lib/
+/classes/
+.lein-deps-sum
+testinfo.clj
+.lein*
+target/
+docs/
+.nrepl-port
+.idea/*
+*.iml
